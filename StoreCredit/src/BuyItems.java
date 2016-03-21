@@ -48,6 +48,7 @@ public class BuyItems {
 			output.print("Case #"+(i+1)+": ");
 			calculate(itemPrices, credit, output);
 		}
+		output.close();
 		input.close();
 	}
 	

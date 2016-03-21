@@ -38,8 +38,6 @@ Sample
 
 
 Input
-
-Output
 3
 100
 3
@@ -50,6 +48,8 @@ Output
 8
 8
 2 1 9 4 4 56 90 3
+
+Output
 Case #1: 2 3
 Case #2: 1 4
 Case #3: 4 5
